@@ -20,7 +20,7 @@ This project analyzes Kickstarter project data from **two datasets** (`ks-projec
 
 ---
 
-##  SQL Tasks Performed  
+##  SQL Tasks Performed Available in(https://github.com/Henrykinyara/Kickstarter-SQL-Project/blob/main/SQL/Kickstarter%20Project.sql)
 
 ###  Data Preparation  
 - Joined the two datasets into one unified table  
